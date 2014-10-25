@@ -11,3 +11,4 @@
   <input type="text" name="confirmepasse" id="confirmepasse"/>
   <input type="submit" value="S'inscrire"/>
 </form>
+from cloud
